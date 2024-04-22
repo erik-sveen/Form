@@ -7,7 +7,7 @@
             button.onclick = function() {
                 // Static URL for demonstration, replace with your own allowed URL
                 var iframe = document.createElement('iframe');
-                iframe.src = 'https://vg.no'; // Public site that allows embedding
+                iframe.src = 'https://www.youtube.com/embed/03jMSIRrf2Q?rel=0&amp;showinfo=0'; // Public site that allows embedding
                 iframe.width = '100%';
                 iframe.height = '600px';
                 iframe.style.border = '0';
